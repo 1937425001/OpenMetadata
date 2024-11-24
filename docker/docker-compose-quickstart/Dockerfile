@@ -8,7 +8,6 @@
 #  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 #  See the License for the specific language governing permissions and
 #  limitations under the License.
-
 # Build stage
 FROM alpine:3 AS build
 ARG RI_VERSION="1.6.0-SNAPSHOT"
